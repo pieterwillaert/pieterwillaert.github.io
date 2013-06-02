@@ -1,7 +1,12 @@
-.App{
+.content{
     padding: 20px;
+    margin-top: 40px;
 }
 
 .btn-group{
     margin-bottom: 20px;
+}
+
+.brand i{
+   margin: 5px 5px 0 15px;
 }
